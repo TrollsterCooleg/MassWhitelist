@@ -1,0 +1,6 @@
+# Mass whitelist groups of people.
+# Small example config
+
+staff:
+  - Trollster
+  - JohnnyHT
