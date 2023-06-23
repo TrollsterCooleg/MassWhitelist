@@ -1,4 +1,4 @@
-name: MassWhitelist
+name: McmWhitelist
 version: '${project.version}'
 main: me.cooleg.masswhitelist.MassWhitelist
 api-version: 1.18
