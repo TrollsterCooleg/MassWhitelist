@@ -83,7 +83,7 @@
         <dependency>
             <groupId>com.github.TrollsterCooleg</groupId>
             <artifactId>EasyCommands</artifactId>
-            <version>6c2e7d7b26</version>
+            <version>3391491d58</version>
         </dependency>
     </dependencies>
 </project>
